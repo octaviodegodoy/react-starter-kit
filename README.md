@@ -227,9 +227,8 @@ file. The documentation to the project is licensed under the
 
 ---
 Made with ♥ by Konstantin Tarkus ([@koistya](https://twitter.com/koistya)) and [contributors](https://github.com/kriasoft/react-starter-kit/graphs/contributors)
-## mudei na mesma linha
-[rsk]: https://www.reactstarterkit.com
+## ESSterkit.com
 [demo]: http://demo.reactstarterkit.com
 [node]: https://nodejs.org
 [chat]: https://gitter.im/kriasoft/react-starter-kit
-## MUDEI AQUI UM COMENTARIO
+## ESSA PORRA!!
